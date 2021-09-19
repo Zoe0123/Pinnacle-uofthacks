@@ -43,8 +43,13 @@ conda install pandas
 conda install -c anaconda requests 
 conda install -c anaconda beautifulsoup4
 ```
+## To play with the app
 
-## Train the recommendation system
+1. Git clone this repository.
+2. Open Android Studio (download if you haven't).
+3. Open the repository and then run it with an emulator (make sure your gradle version is up to date).
+
+## Retrain the recommendation system
 
 ```
 python model/train.py
