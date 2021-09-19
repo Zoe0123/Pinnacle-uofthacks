@@ -1,6 +1,6 @@
 # Pinnacle-uofthacks
 
-# APP to make recommendation about plan B
+# Catch - APP to make recommendation about plan B
 
 ## Prototype
 
