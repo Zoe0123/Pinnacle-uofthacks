@@ -29,7 +29,7 @@ Eunice Yan, Zoe Zhou
 
 ## Complete project link
 
-To be posted.
+https://devpost.com/software/catch-wqyn5j
 
 ## Prototype
 
@@ -47,7 +47,7 @@ conda install -c anaconda beautifulsoup4
 
 1. Git clone this repository.
 2. Open Android Studio (download if you haven't).
-3. Open the repository and then run it with an emulator (make sure your gradle version is up to date).
+3. Open the Catch directory from the cloned folder in Android Studio) and then run module app with an emulator (make sure your gradle version is up to date).
 
 ## Retrain the recommendation system
 
