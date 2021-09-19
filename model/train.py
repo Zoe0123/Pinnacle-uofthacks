@@ -6,7 +6,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, InputLayer
 from tensorflow.keras.layers.experimental import preprocessing
 
-data = pd.read_csv("data/data.csv", names = ['distance','budget','formality','date_number','weather','covid'])
+data = pd.read_csv("data/data.csv")
 
 factors = data.copy()
 labels = factors.drop(['distance','budget','formality','date_number','weather',
@@ -50,4 +50,4 @@ results = model.evaluate(test_X, test_y, batch_size=16)
 print("test loss, test acc:", results)
 
 
-# tf.saved_model.save(model, "saved_model/my_model")
+tf.saved_model.save(model, "saved_model.pb")
