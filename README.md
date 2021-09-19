@@ -11,8 +11,11 @@ https://www.figma.com/file/5cvatXbYAXvHnlGlC1fzyX/Pinnacle-2021?node-id=0%3A1
 ```
 conda create -n tf tensorflow
 conda install pandas
+conda install -c anaconda requests 
+conda install -c anaconda beautifulsoup4
 ```
-## Train
+
+## Train the recommendation system
 
 ```
 python model/train.py
