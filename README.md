@@ -7,7 +7,7 @@ motivated to come up a solution that addresses this trend.
 
 ## What it does
 Catch is a mobile app that helps users plan dates better by checking logistical problems.
-It also suggests related date ideas, giving you plan b if things fall through.
+It also suggests related date ideas, giving you plan B if things fall through.
 
 ## languages and Platforms
 Java, Python, Tensorflow, Tensorflow Lite
