@@ -67,3 +67,8 @@ def get_covid_cond():
     # # Use `tensor()` in order to get a pointer to the tensor.
     # output_data = interpreter.get_tensor(output_details[0]['index'])
     # print(output_data)
+    
+def __main__():
+    str = get_weather() + "" + get_covid_cond()
+    # print str 
+    print(str)
