@@ -31,12 +31,10 @@ public class MainActivity extends Activity implements AdapterView.OnItemSelected
 
         // Spinner Drop down elements
         List<String> categories = new ArrayList<String>();
-        categories.add("Item 1");
-        categories.add("Item 2");
-        categories.add("Item 3");
-        categories.add("Item 4");
-        categories.add("Item 5");
-        categories.add("Item 6");
+        categories.add("Nearby me");
+        categories.add("Within city");
+        categories.add("Within state");
+        categories.add("Doesn't matter");
 
         // Creating adapter for spinner
         ArrayAdapter<String> dataAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_item, categories);

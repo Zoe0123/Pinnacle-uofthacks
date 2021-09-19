@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf8030cc-81ed-472a-9b9e-3b90bf56995f" name="Default Changelist" comment="" />
+    <list default="true" id="bf8030cc-81ed-472a-9b9e-3b90bf56995f" name="Default Changelist" comment="Code template (Cite https://www.journaldev.com/9231/android-spinner-drop-down-list)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,13 +54,44 @@
       <option name="presentableId" value="Default" />
       <updated>1632011158264</updated>
     </task>
+    <task id="LOCAL-00001" summary="Code template (Cite https://www.journaldev.com/9231/android-spinner-drop-down-list)">
+      <created>1632014139026</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632014139026</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Code template (Cite https://www.journaldev.com/9231/android-spinner-drop-down-list)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code template (Cite https://www.journaldev.com/9231/android-spinner-drop-down-list)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="80" y="25" key="#Project_Structure" timestamp="1632011589820">
       <screen x="0" y="25" width="1440" height="809" />
     </state>
     <state x="80" y="25" key="#Project_Structure/0.25.1440.809@0.25.1440.809" timestamp="1632011589820" />
+    <state x="220" y="102" key="Vcs.Push.Dialog.v2" timestamp="1632014165617">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state x="220" y="102" key="Vcs.Push.Dialog.v2/0.25.1440.807@0.25.1440.807" timestamp="1632014165617" />
+    <state x="336" y="180" key="git4idea.merge.GitPullDialog" timestamp="1632013997691">
+      <screen x="0" y="25" width="1440" height="807" />
+    </state>
+    <state x="336" y="180" key="git4idea.merge.GitPullDialog/0.25.1440.807@0.25.1440.807" timestamp="1632013997691" />
     <state x="386" y="25" key="new project wizard" timestamp="1632011579229">
       <screen x="0" y="25" width="1440" height="809" />
     </state>
