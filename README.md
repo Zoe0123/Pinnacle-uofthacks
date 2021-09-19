@@ -1,13 +1,14 @@
 # Catch - APP to make recommendation about plan B
 
 ## Inspiration
-Unexpected weather changes, unforeseen restrictions, or the place is simply too pricey... 
-Having experienced these changes, a bit too often especially during the pandemic, we are 
-motivated to come up a solution that addresses this trend.
+It goes without saying, 2020 was extremely challenging for us to get together and connect with other people. Dates fell through due to the difficulty to foresee things that would cancel a plan.
+
+We were literally inspired by our frustrations and wanted to create something that would gently remind people of planning mishaps and also propose alternative ideas!
 
 ## What it does
-Catch is a mobile app that helps users plan dates better by checking logistical problems.
-It also suggests related date ideas, giving you plan B if things fall through.
+Catch is a mobile app that helps users plan dates better by checking logistical problems. We’re only human, and sometimes life gets so busy we don’t check everything. Catch has got you covered, by checking your date for you.
+
+It also suggests related date ideas, giving you plan b if things fall through.
 
 ## languages and Platforms
 Java, Python, Tensorflow, Tensorflow Lite
