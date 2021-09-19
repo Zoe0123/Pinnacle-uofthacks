@@ -18,8 +18,8 @@ public class SecondActivity extends Activity {
         TextView  textView=(TextView) findViewById(R.id.txt_bundle);
         Bundle bundle=getIntent().getExtras();
         String data=bundle.get("data").toString();
-        String[] arr = data.split("@", 3);
-        textView.setText(data);
+        String[] arr = data.split("@", 4);
+        textView.setText(arr[0] + " " + arr[1] + " " + arr[2] + " " + arr[3]);
 
 
 
