@@ -8,27 +8,73 @@
 
 
     <LinearLayout
-        android:orientation="vertical"
-        android:padding="10dip"
         android:id="@+id/linear_layout"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content">
+        android:layout_width="395dp"
+        android:layout_height="464dp"
+        android:layout_above="@+id/button"
+        android:layout_marginBottom="43dp"
+        android:orientation="vertical"
+        android:padding="10dip">
 
         <!-- Text Label -->
         <TextView
-            android:layout_width="fill_parent"
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dip"
             android:layout_marginBottom="5dp"
             android:text="Distance willing to travel:" />
 
         <!-- Spinner Element -->
+
         <Spinner
             android:id="@+id/spinner"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:prompt="@string/spinner_title"
-            />
+            android:prompt="@string/spinner_title" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dip"
+            android:layout_marginBottom="5dp"
+            android:text="Budget range:" />
+
+        <Spinner
+            android:id="@+id/spinner2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:prompt="@string/spinner_title" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dip"
+            android:layout_marginBottom="5dp"
+            android:text="Formality:" />
+
+        <Spinner
+            android:id="@+id/spinner3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:prompt="@string/spinner_title" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dip"
+            android:layout_marginBottom="5dp"
+            android:text="First date?" />
+
+        <Spinner
+            android:id="@+id/spinner4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:prompt="@string/spinner_title" />
+
     </LinearLayout>
 
     <Button
